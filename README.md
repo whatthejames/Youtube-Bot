@@ -1,5 +1,5 @@
-##  Tҽʅҽɠɾαɱ-YσυTυႦҽ-Dσɯɳʅσαԃҽɾ 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DX-Bots/Telegram-YouTube-Downloader-1)
+##  TG YᴏᴜTᴜʙᴇ Uᴘʟᴏᴀᴅᴇʀ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/YouTube-Bot)
 <img align="centre" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="mastermindvrtx"/>
 <img align="centre" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img align="centre" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> 
@@ -9,10 +9,9 @@
   <img src="https://telegra.ph/file/39812237fd7a1bfc02532.jpg">
 </p>
 * Commands YouTube for Audio & Video and sends it to telegram after receiving valid URL [Do not forwarded any just copy and paste the link]
-* Reach me on Telegram (https://t.me/vrtxytbot)
+* Reach me on Telegram [@YouTubeXDBot(https://t.me/YouTubeXDBot)
 
-
-# |-------------------------------------------------->💋Use: 
+# |-------------------------------------------------->Use: 
 * PERSONAL ---- Copy any Valid Youtube link and paste inside the bot and follow the prompts.
 * GROUPS ------ Add the bot then copy any valid Youtube link and paste inside the bot and follow the prompts.
 
