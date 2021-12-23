@@ -6,10 +6,10 @@
 <img aligh="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
 <p align="centre">
-  <img src="https://telegra.ph/file/39812237fd7a1bfc02532.jpg">
+  <img src="https://telegra.ph/file/a39031e5335bd85394733.jpg">
 </p>
 * Commands YouTube for Audio & Video and sends it to telegram after receiving valid URL [Do not forwarded any just copy and paste the link]
-* Reach me on Telegram [@YouTubeXDBot(https://t.me/YouTubeXDBot)
+* Reach me on Telegram [@YouTubeXDBot](https://t.me/YouTubeXDBot)
 
 # |-------------------------------------------------->Use: 
 * PERSONAL ---- Copy any Valid Youtube link and paste inside the bot and follow the prompts.
@@ -19,7 +19,7 @@
 **File size more then 2gb won't be downloaded due to telegram policy**
 
 ## Prerequisite: 
-* ffmpeg - [ https://github.com/mastermindvrtx/heroku-buildpack-ffmpeg-latest.git ]
+* [ffmpeg](https://github.com/mastermindvrtx/heroku-buildpack-ffmpeg-latest.git) 
   
     
 ## Dependencies:
@@ -32,5 +32,5 @@
 * python3 -m YoutubeDL
  
 <p align="centre">
-  <img src="https://telegra.ph/file/a532f298b920e99bd58bb.jpg">
+  <img src="https://telegra.ph/file/b39906f572822b3ab82c8.jpg">
 </p>
