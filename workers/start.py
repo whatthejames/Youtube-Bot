@@ -16,10 +16,10 @@ from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, Inl
 async def start(client, message):
     # return
     joinButton = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🍃 Channel", url="https://t.me/TeleRoidGroup"),
-         InlineKeyboardButton("🛡 Support", url="https://t.me/TeleRoid14")],
-        [InlineKeyboardButton("👤 Github", url="https://github.com/PredatorHackerzZ"),
-         InlineKeyboardButton("🤖 BotsList", url="https://t.me/joinchat/t1ko_FOJxhFiOThl")],
+        [InlineKeyboardButton("🍃 Channel", url="https://t.me/Mo_Tech_YT"),
+         InlineKeyboardButton("🛡 Support", url="https://t.me/Group")],
+        [InlineKeyboardButton("🎗️ Deploy", url="https://github.com/PR0FESS0R-99"),
+         InlineKeyboardButton("🤖 BotsList", url="https://t.me/MT_Botz")],
     ])
     welcomed = f"""
     Hello 🙋,
